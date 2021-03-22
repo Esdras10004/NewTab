@@ -1,0 +1,37 @@
+* {
+    background-image: url('https://images6.alphacoders.com/656/thumb-1920-656283.jpg');
+    background-size: auto 100vh;
+}
+
+body {
+    margin: 30px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+p {
+    display: inline-block;
+}
+
+gitHub {
+    filter: invert(1) hue-rotate(180);
+}
+
+div {
+    margin-top: auto;
+}
+
+.fas {
+    font-size: 80px;
+    color: gray;
+    display: block;
+    margin-top: auto;
+}
